@@ -47,17 +47,17 @@
 ### 🐾 [Pawsome](#)  
 🚀 **Web app mobile-first** para gestionar protectoras y refugios de animales.  
 🔹 Tecnologías: React, TypeScript, Redux, Flask  
-🔹 [Repositorio](#) | [Demo](#)  
+🔹 [Repositorio](https://github.com/CrisMachuca/pawsome-front)   
 
-### 🎵 [RaverTroter](#)  
+### 🎵 [RaverTroters](#)  
 👕 **E-commerce de ropa y accesorios para festivales de música electrónica.**  
 🔹 Tecnologías: React, Vite, PostgreSQL, Flask, Stripe  
-🔹 [Repositorio](#) | [Demo](#)  
+🔹 [Repositorio](https://github.com/CrisMachuca/RaverTroters)  
 
 ### 🎬 [Propaganda Film](#)  
 🎥 **Plataforma web para empresa de contratación audiovisual.**  
 🔹 Tecnologías: React, Tailwind CSS, Flask, PostgreSQL  
-🔹 [Repositorio](#) | [Demo](#)  
+🔹 [Repositorio](https://github.com/CrisMachuca/propagandafilm) | [Demo](https://www.propagandafilm.tv/)  
 
 ---
 
